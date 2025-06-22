@@ -13,23 +13,22 @@ from my_agents.actor_agent import triage_agent
 
 
 
-while True:
-    input_task = input(f"Talk to Actor {triage_agent.name}: ")
-    if input_task.strip() == "":
-        break
+# while True:
+#     input_task = input(f"Talk to Actor {triage_agent.name}: ")
+#     if input_task.strip() == "":
+#         break
 
-    async def main():
-        result = await Runner.run(triage_agent, input_task)
-        print(result.final_output)
+#     async def main():
+#         result = await Runner.run(triage_agent, input_task)
+#         print(result.final_output)
       
    
 
-    asyncio.run(main())
+#     asyncio.run(main())
 
 
 
 conversation_history = []
-
 
 while True:
     input_task = input(f"Talk to Actor {triage_agent.name}: ")
