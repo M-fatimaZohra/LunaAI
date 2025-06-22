@@ -11,4 +11,7 @@ client = AsyncOpenAI(api_key=my_key,base_url="https://generativelanguage.googlea
 
 
 MODEL = OpenAIChatCompletionsModel(model="gemini-2.0-flash",openai_client=client)
-MODEL2 = OpenAIChatCompletionsModel(model="gemini-2.5-flash",openai_client=client)
+
+
+
+
