@@ -7,9 +7,11 @@ Just tell Luna who to be (e.g., *"my best friend Sarah, an ENFP and a good liste
 
 ## ✨ Features
 
-- 🎭 **Persona Switching**: Talk to Luna as any character you define
-- 💬 **Conversational AI**: Natural language interaction via command line
-- 🔧 **Custom Personality Injection**: Add traits, tone, MBTI types, and more
+- 🎭 **Persona Switching**: Talk to Luna as any character you define  
+- 💬 **Conversational AI**: Natural language interaction via command line  
+- 🔧 **Custom Personality Injection**: Add traits, tone, MBTI types, and more  
+- 🧠 **Character Session Naming** *(v2.0)*: Give your character a unique name when starting the chat  
+- 📚 **Chat History Storage** *(v2.0)*: Successful chats are saved in `Char_history` based on the character’s name  
 
 ---
 
@@ -24,17 +26,18 @@ Just tell Luna who to be (e.g., *"my best friend Sarah, an ENFP and a good liste
 
 ## 🚧 Development Status
 
-> 🧬 **Version 1.0**  
-> 🎉 First prototype built — still under development.  
-> 🛠️ Features and refinements coming soon! Stay tuned.
+> 🧬 **Version 2.0**  
+> 📌 Character naming and chat memory added  
+> 🛠️ More features and refinements in progress  
 
 ---
 
 ## 📦 Version Table
 
-| Version | Description                                      |
-|---------|--------------------------------------------------|
-| 1.0     | Actor that acts like any character you want in CMD |
+| Version | Description                                                |
+|---------|------------------------------------------------------------|
+| 1.0     | Actor that acts like any character you want in CMD         |
+| 2.0     | Character name prompt + history stored in `Char_history`   |
 
 ---
 
@@ -42,15 +45,14 @@ Just tell Luna who to be (e.g., *"my best friend Sarah, an ENFP and a good liste
 
 You are my best friend named Sarah (girl), you are a good listener and your persona is ENFP.
 
-
 ---
 
 ## 🧠 Ideas for Future
 
-- GUI version
-- Memory retention
-- Emotions/empathy settings
-- Multiple character switching in-session
+- GUI version  
+- Memory retention  
+- Emotions/empathy settings  
+- Multiple character switching in-session  
 
 ---
 
