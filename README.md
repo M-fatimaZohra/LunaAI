@@ -10,8 +10,11 @@ Just tell Luna who to be (e.g., *"my best friend Sarah, an ENFP and a good liste
 - 🎭 **Persona Switching**: Talk to Luna as any character you define  
 - 💬 **Conversational AI**: Natural language interaction via command line  
 - 🔧 **Custom Personality Injection**: Add traits, tone, MBTI types, and more  
-- 🧠 **Character Session Naming** *(v2.0)*: Give your character a unique name when starting the chat  
-- 📚 **Chat History Storage** *(v2.0)*: Successful chats are saved in `Char_history` based on the character’s name  
+- 🧠 **Character Session Naming** *(v2.0+)*: Give your character a unique name when starting the chat  
+- 📚 **Chat History Storage** *(v2.0+)*: Conversations saved in `Char_history` folder  
+- ➕ **Add New Characters** *(v3.0)*: Easily create new characters with distinct personalities  
+- ♻️ **Continue with Existing Characters** *(v3.0)*: Resume any saved conversation  
+- ❌ **Delete Characters** *(v3.0)*: Remove unwanted characters and their history permanently  
 
 ---
 
@@ -26,18 +29,19 @@ Just tell Luna who to be (e.g., *"my best friend Sarah, an ENFP and a good liste
 
 ## 🚧 Development Status
 
-> 🧬 **Version 2.0**  
-> 📌 Character naming and chat memory added  
+> 🧬 **Version 3.0**  
+> ✅ Add, continue, and delete characters added  
 > 🛠️ More features and refinements in progress  
 
 ---
 
 ## 📦 Version Table
 
-| Version | Description                                                |
-|---------|------------------------------------------------------------|
-| 1.0     | Actor that acts like any character you want in CMD         |
-| 2.0     | Character name prompt + history stored in `Char_history`   |
+| Version | Description                                                              |
+|---------|--------------------------------------------------------------------------|
+| 1.0     | Actor that acts like any character you want in CMD                       |
+| 2.0     | Character name prompt + history stored in `Char_history`                 |
+| 3.0     | Add new character, continue past sessions, delete characters permanently |
 
 ---
 
@@ -53,6 +57,8 @@ You are my best friend named Sarah (girl), you are a good listener and your pers
 - Memory retention  
 - Emotions/empathy settings  
 - Multiple character switching in-session  
+- Export full conversation logs  
+- Voice synthesis  
 
 ---
 
